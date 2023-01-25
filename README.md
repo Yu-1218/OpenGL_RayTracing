@@ -20,3 +20,11 @@ Perform intersection calculation between a ray and a quadric surface.
 
   
 ***Input format:***  
+<p align="center">
+<img src="https://github.com/Yu-1218/OpenGL_RayTracing/blob/main/Input_format.png" width="250">
+</p>
+
+***Output Rendering result:***  
+<p align="center">
+<img src="https://github.com/Yu-1218/OpenGL_RayTracing/blob/main/Output_format.png" width="500">
+</p>
