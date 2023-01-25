@@ -1,0 +1,10 @@
+# ninja log v5
+0	5	0	clean	8c45b54705a541e8
+15	4124	6918308977052796	CMakeFiles/Main.dir/Scene.cpp.obj	8dabba5ffe28a23d
+0	1267	6918308948522829	CMakeFiles/Main.dir/Utils/lodepng.cpp.obj	44ee455979679cfc
+5	1976	6918308955612848	CMakeFiles/Main.dir/Camera.cpp.obj	8f87646ad806aec2
+10	1659	6918308952462811	CMakeFiles/Main.dir/Material.cpp.obj	960d51eea1766431
+7	3147	6918308967267821	CMakeFiles/Main.dir/Hittable.cpp.obj	1802f4560174a98b
+3	1660	6918308952442833	CMakeFiles/Main.dir/Ray.cpp.obj	c525566a33edadea
+12	2067	6918308956497836	CMakeFiles/Main.dir/main.cpp.obj	c92b1da8ef8d2afe
+4124	4282	6918308978712806	Main.exe	75512d3cea463660
